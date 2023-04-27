@@ -1,0 +1,22 @@
+/*Estrutura do site*/
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: Helvetica, "Trebuchet Ms", sans-serif;
+	background: #fff url(../imagens/bg.png);
+	margin: 15px;
+}
+
+#container {
+	background: #ede9cc;
+}
+
+#topo {
+	background: #dbcd87;
+	height: 15.4em;
+	min-height: 250px;
+}
